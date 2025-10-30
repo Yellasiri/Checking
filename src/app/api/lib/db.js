@@ -1,3 +1,4 @@
+// src/app/api/lib/db.js
 import mongoose from "mongoose";
 
 let isConnected = false;
